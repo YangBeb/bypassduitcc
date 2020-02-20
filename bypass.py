@@ -1,3 +1,7 @@
+# CODED : AkasakaID
+# Time : 20/02/2020
+# LIHAT? BOLEH , REKOD? JANGAN 
+# Stay Strong!!
 import requests,time,os
 r = requests.Session()
 from bs4 import BeautifulSoup as bs
